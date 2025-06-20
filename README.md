@@ -1,28 +1,35 @@
-# 📊 Power BI – Sales Overview Dashboard
+📊 Power BI – Sales Overview Dashboard
+This project presents an interactive regional sales dashboard built with Power BI. It includes dynamic KPIs, year-over-year (YoY) comparative visualizations, and a state-level map.
 
-Este proyecto presenta un dashboard interactivo de ventas regionales creado con Power BI. Incluye KPIs dinámicos, visualizaciones comparativas entre años (YoY) y un mapa por estado.
+🧰 Tools Used
+Power BI Desktop
 
-## 🧰 Herramientas utilizadas
-- Power BI Desktop
-- DAX (medidas y lógica condicional)
-- Parámetros de campo y segmentadores
-- Visualizaciones: gráficos de barras, líneas, tarjetas y mapa geográfico
+DAX (measures and conditional logic)
 
-## 🔎 Funcionalidades principales
-- Selección dinámica entre métricas: Ventas, Utilidad, Cantidad
-- Comparación Año Actual (CY) vs Año Anterior (PY)
-- KPI por región (CENTRAL, EAST, SOUTH, WEST)
-- Visualización por mes y por estado
-- Mapa interactivo de ventas por ubicación
+Field parameters and slicers
 
-## 📁 Archivos
-- `PBI_Sales.pbix` – archivo Power BI del dashboard
-- `Sales Overview Data.xlsx` – dataset base utilizado
-- `image_dashboard.jpg` – captura del dashboard
+Visualizations: bar charts, line charts, cards, and geographic map
 
-## 📸 Vista previa
+🔎 Main Features
+Dynamic metric selection: Sales, Profit, Quantity
 
-![Dashboard Screenshot](image_dashboard.jpg)
+Comparison of Current Year (CY) vs Previous Year (PY)
 
-## 📝 Notas
-Este proyecto fue desarrollado como parte de mi formación en análisis de datos. Los datos son ficticios y utilizados únicamente con fines educativos.
+Regional KPIs (CENTRAL, EAST, SOUTH, WEST)
+
+Monthly and state-level breakdown
+
+Interactive sales map by location
+
+📁 Files
+PBI_Sales.pbix – Power BI dashboard file
+
+Sales Overview Data.xlsx – base dataset used
+
+image_dashboard.jpg – dashboard screenshot
+
+📸 Preview
+
+
+📝 Notes
+This project was developed as part of my data analysis training. The data is fictional and used solely for educational purposes.
